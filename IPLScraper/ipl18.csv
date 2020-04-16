@@ -1,0 +1,50 @@
+position,team,Pid,Won,Lost,Tied,N/R,Net RR,For,Against,Pts,Form
+
+Q,"Sunrisers Hyderabad
+SRH",14,9,5,0,0,+0.284,"2,230/273.3","2,193/278.4",18,"W
+W
+L
+L
+L"
+Q,"Chennai Super Kings
+CSK",14,9,5,0,0,+0.253,"2,488/275.3","2,433/277.1",18,"W
+L
+W
+L
+W"
+Q,"Kolkata Knight Riders
+KKR",14,8,6,0,0,-0.070,"2,363/265.1","2,425/270",16,"L
+L
+W
+W
+W"
+Q,"Rajasthan Royals
+RR",14,7,7,0,0,-0.250,"2,130/255.3","2,141/249.2",14,"W
+W
+W
+L
+W"
+5,"Mumbai Indians
+MI",14,6,8,0,0,+0.317,"2,380/278.4","2,282/277.3",12,"W
+W
+L
+W
+L"
+6,"Royal Challengers Bangalore
+RCB",14,6,8,0,0,+0.129,"2,322/264.4","2,383/275.4",12,"L
+W
+W
+W
+L"
+7,"Kings XI Punjab
+KXIP",14,6,8,0,0,-0.502,"2,210/268.4","2,259/258.5",12,"L
+L
+L
+L
+L"
+8,"Delhi Capitals
+DC",14,5,9,0,0,-0.222,"2,297/258","2,304/252.3",10,"L
+L
+L
+W
+W"
