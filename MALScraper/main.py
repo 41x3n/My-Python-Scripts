@@ -13,6 +13,7 @@ def scrap():
             list = parse(response)
         elif response.status_code == 404:
             print('Not Found.')
+    print(list)
 
 
 def parse(response):
